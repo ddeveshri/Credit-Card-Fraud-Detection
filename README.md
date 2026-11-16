@@ -24,7 +24,7 @@ Programming Language: Python
 
 IEEE-CIS Fraud Detection Dataset
 
-The dataset contains transaction records and identity-related information used to identify fraudulent activities.
+The dataset is kept manually due to large file and it contains transaction records and identity-related information which is used to identify fraudulent activities.
 
 - `train_transaction.csv` – Transaction attributes and fraud labels.
 - `train_identity.csv` – Identity-related attributes associated with transactions.
